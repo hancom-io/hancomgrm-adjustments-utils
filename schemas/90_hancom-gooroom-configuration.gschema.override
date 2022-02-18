@@ -1,18 +1,18 @@
 [org.gnome.desktop.background]
 show-desktop-icons=false
-picture-uri='file:///usr/share/backgrounds/hancom-gooroom/hancom_gooroom_theme_bg_1.jpg'
+picture-uri='file:///usr/share/backgrounds/hancom-gooroom/hancom_gooroom_theme_bg_9.jpg'
 picture-options='zoom'
 primary-color='#000000'
 secondary-color='#000000'
 
 [org.gnome.desktop.interface]
-gtk-theme='Arc'
-icon-theme='Hancom-Gooroom-Papirus'
+gtk-theme='Flat-Remix-GTK-Blue-Dark'
+icon-theme='Hancom-Gooroom-Numix-Circle'
 font-name='NanumGothic 10'
 document-font-name='NanumGothic 10'
 
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/hancom-gooroom/hancom_gooroom_theme_bg_1.jpg'
+picture-uri='file:///usr/share/backgrounds/hancom-gooroom/hancom_gooroom_theme_bg_9.jpg'
 picture-options='zoom'
 primary-color='#000000'
 secondary-color='#000000'
