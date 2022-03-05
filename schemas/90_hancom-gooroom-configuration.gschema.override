@@ -6,7 +6,7 @@ primary-color='#000000'
 secondary-color='#000000'
 
 [org.gnome.desktop.interface]
-gtk-theme='Flat-Remix-GTK-Blue-Dark'
+gtk-theme='Colloid-light'
 icon-theme='Hancom-Gooroom-Numix-Circle'
 font-name='NanumGothic 10'
 document-font-name='NanumGothic 10'
