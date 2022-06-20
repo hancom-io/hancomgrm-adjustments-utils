@@ -1,3 +1,10 @@
+hancomgrm-adjustments-utils (0.3.1+han3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [b6882b0f] Released Hancom Gooroom 3.1
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 20 Jun 2022 09:59:57 +0900
+
 hancomgrm-adjustments-utils (0.3.0+han3u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
